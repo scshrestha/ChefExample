@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is ASP.NET Application v5.0!!!
+            This is ASP.NET Application v6.0!!!
         </div>
     </form>
 </body>
